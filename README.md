@@ -1,7 +1,8 @@
 <div align="center">
 
 
-# <img src="./assets/logo.png" style="vertical-align: sub;" width="80"> **MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation**
+# <img src="./assets/logo.png" style="vertical-align: sub;" width="200">
+**MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation**
 
 
 <i>Zhicheng Zhang, Pancheng Zhao, Eunil Park, Jufeng Yang</i>
