@@ -100,7 +100,7 @@ VAA_VideoEmotion8
 └── ve8.json
 ```
 
-**Pre-trained Model:** Download the pretrain models from google drive [google]()/ baidu netdisk [baidu](). Unzip it by *cvpr24mart* and place it at './mart_pretrained_models/'.
+**Pre-trained Model:** Download the pretrain models from [[google drive]()/ [baidu netdisk]()]. Unzip it by *cvpr24mart* and place it at './mart_pretrained_models/'.
 
 ## Run
 You can easily train and evaluate the model by running the script below.
