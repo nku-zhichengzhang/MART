@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# <img src="./assets/logo.png" style="vertical-align: sub;" width="200">
+# <img src="./assets/logo.png" style="vertical-align: sub;" width="400">
 **MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation**
 
 
