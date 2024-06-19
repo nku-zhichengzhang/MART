@@ -47,7 +47,7 @@ Limited training data is a long-standing problem for video emotion analysis (VEA
 ### Recommended Environment
 * CUDA 11.1
 * Python 3.6
-* Pytorch 1.8.1
+* Pytorch 1.8.0
 
 You can prepare your environment by running the following lines.
 
