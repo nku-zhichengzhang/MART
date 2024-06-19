@@ -100,7 +100,11 @@ VAA_VideoEmotion8
 └── ve8.json
 ```
 
-**Pre-trained Model:** Download the pretrain models from [[google drive]()/ [baidu netdisk]()]. Unzip it by *cvpr24mart* and place it at './mart_pretrained_models/'.
+**Pre-trained Model:** Download the pretrain models from [[google drive](https://drive.google.com/drive/folders/1VwuBEJ7RPkpfi4SqUb84jSZhy1zfTYTJ?usp=drive_link)/[baidu netdisk](链https://pan.baidu.com/s/1DMKH0Tfc_SHJFpyxEq9HbA?pwd=riu6)].
+
+Place the audioset_10_10_0.4593.pth at './models/ast/pretrained_models'
+
+Place the vit_base_patch16_224.pth at './models/mbt/pretrained_models/vit_base_patch16_224'
 
 ## Run
 You can easily train and evaluate the model by running the script below.
