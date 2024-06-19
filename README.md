@@ -55,7 +55,6 @@ We prepare a frozen conda environment [`env`](./env.yaml) that can be directly c
 ```
 conda env create -f ./env.yaml
 ```   
-If it doesn't work, try installing the environment manually.
 
 
 
