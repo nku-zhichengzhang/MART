@@ -25,7 +25,7 @@ This repository contains the official implementation of our work in CVPR 2024. T
 >**MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation**<br>
 Zhicheng Zhang, Pancheng Zhao, Eunil Park, Jufeng Yang<br>
 <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024</i>.</br>
-[<a href="[../assets/2023_ICCV_MPOT.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MART_Masked_Affective_RepresenTation_Learning_via_Masked_Temporal_Distribution_Distillation_CVPR_2024_paper.pdf)" target="_blank">PDF</a>]
+[<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MART_Masked_Affective_RepresenTation_Learning_via_Masked_Temporal_Distribution_Distillation_CVPR_2024_paper.pdf" target="_blank">PDF</a>]
 [<a href="https://zzcheng.top/assets/pdf/2024_CVPR_MART_poster.pdf" target="_blank">Poster</a>]
 [<a href="https://zzcheng.top/MART" target="_blank">Project Page</a>]
 [<a href="https://github.com/nku-zhichengzhang/MART" target="_blank">Github</a>]
