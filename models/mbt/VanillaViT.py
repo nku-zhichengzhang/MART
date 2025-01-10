@@ -9,7 +9,7 @@ from timm.models.layers import drop_path, to_2tuple, trunc_normal_
 from timm.models.registry import register_model
 from collections import OrderedDict
 
-MODEL_PATH = '/home/ubuntu14/zpc/Code/MART_demo/models/mbt/pretrained_models/videomae_base_patch16_224.pth'
+MODEL_PATH = './models/mbt/pretrained_models/videomae_base_patch16_224.pth'
 
 def _cfg(url='', **kwargs):
     return {

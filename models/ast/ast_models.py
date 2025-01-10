@@ -10,7 +10,7 @@ import torch.nn as nn
 from torch.cuda.amp import autocast
 import os
 import wget
-PRETRAIN_ROOT = '/home/ubuntu14/zpc/Code/MART_demo/models/ast/pretrained_models'
+PRETRAIN_ROOT = './models/ast/pretrained_models'
 os.environ['TORCH_HOME'] = PRETRAIN_ROOT
 import timm
 from timm.models.layers import to_2tuple,trunc_normal_
