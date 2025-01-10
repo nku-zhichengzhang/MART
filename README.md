@@ -99,6 +99,8 @@ VAA_VideoEmotion8
 └── ve8.json
 ```
 
+The srt files are extracted by using whisper v3 and Baidu API.
+
 **Pre-trained Model:** Please download the pretrain models from the official repository of VideoMAE and AST.
 
 Place the audioset_10_10_0.4593.pth at './models/ast/pretrained_models'
