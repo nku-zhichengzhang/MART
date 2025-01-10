@@ -99,7 +99,7 @@ VAA_VideoEmotion8
 └── ve8.json
 ```
 
-**Pre-trained Model:** Download the pretrain models from [[`google drive`](https://drive.google.com/drive/folders/1VwuBEJ7RPkpfi4SqUb84jSZhy1zfTYTJ?usp=drive_link)/[`baidu netdisk`](https://pan.baidu.com/s/1DMKH0Tfc_SHJFpyxEq9HbA?pwd=riu6)].
+**Pre-trained Model:** Please download the pretrain models from the official repository of VideoMAE and AST.
 
 Place the audioset_10_10_0.4593.pth at './models/ast/pretrained_models'
 
