@@ -47,7 +47,7 @@ Limited training data is a long-standing problem for video emotion analysis (VEA
 ### Recommended Environment
 * CUDA 11.1
 * Python 3.6
-* Pytorch 1.8.0
+* Pytorch 1.10
 
 You can prepare your environment by running the following lines.
 
@@ -137,7 +137,7 @@ We referenced the repos below for the code.
 If you find this repo useful in your project or research, please consider citing the relevant publication.
 
 ````
-@inproceedings{zhanZhang_2024_CVPRg2024multiple,
+@inproceedings{Zhang_2024_CVPR,
   title={Mart: Masked affective representation learning via masked temporal distribution distillation},
   author={Zhang, Zhicheng and Zhao, Pancheng and Park, Eunil and Yang, Jufeng},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
